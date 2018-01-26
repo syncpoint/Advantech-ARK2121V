@@ -1,0 +1,28 @@
+{
+  "name": "advantech-ark2112v",
+  "version": "0.0.1",
+  "description": "js scripts to interact with the Advantech ARK-2121V in-vehicle pc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syncpoint/Advantech-ARK2121V.git"
+  },
+  "keywords": [
+    "Advantech",
+    "2121V",
+    "ADXL345",
+    "accelerometer",
+    "PCA9555",
+    "GPIO",
+    "GPS"
+  ],
+  "author": "thomas.halwax@syncpoint.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syncpoint/Advantech-ARK2121V/issues"
+  },
+  "homepage": "https://github.com/syncpoint/Advantech-ARK2121V#readme"
+}
